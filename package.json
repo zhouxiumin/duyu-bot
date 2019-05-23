@@ -1,0 +1,29 @@
+{
+  "name": "duyu-bot",
+  "version": "1.0.0",
+  "description": "douyu bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouxiumin/duyu-bot.git"
+  },
+  "keywords": [
+    "douyu",
+    "danmu"
+  ],
+  "author": "Zhouxiumin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhouxiumin/duyu-bot/issues"
+  },
+  "homepage": "https://github.com/zhouxiumin/duyu-bot#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "socks": "^2.3.2",
+    "socks-proxy-agent": "^4.0.2"
+  }
+}
